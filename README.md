@@ -6,6 +6,9 @@ Definition (Wikipedia):
 "[...]die Herrschaft von Menschen über Menschen und jede Art von Hierarchie als Form der Unter­drückung von Freiheit ablehnt[...]"
 Also gefühlt waren wir nie weiter vom Anarchismus entfernt als im Momment. Um so wichtiger unser Schaffen...
 
+# Cryptoanarchismus
+
+
 Regierungssubstitut durch Volksabstimmungssystem
 
 Eine Dezentrale Autonome Organisation die die Deutsche Regierung ersetzt, da das Maß langsam voll ist. Wir nehmen die Entscheidungen über diese DAO selbst in die Hand. Wir nutzen eine eigene Währung, wir zahlen Steuern an diese DAO und lassen diese geringe Steuerlast auch durch Abstimmungen des Volkes verwalten.
